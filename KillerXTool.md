@@ -5,5 +5,7 @@
 ![KillerX Login](https://cdn.discordapp.com/attachments/982997030240669706/984242626213576804/unknown.png)
 ###### Once you got your account, insert the username and the password that you got and wait for the tool to load, when it will load a menu will pop up with a lot of functions, some of them are still under development and other ones are available for everyone.
 ![KillerX Menu](https://cdn.discordapp.com/attachments/982997030240669706/984243091168981022/hhhh.jpg)
+###### If you dont have an account, just type "*KillerXBeta*" in the Username Input to use the BETA Version of KillerX. Some functions are disabled.
+![KillerX Beta](https://media.discordapp.net/attachments/974033936210616371/989661980862345268/unknown.png)
 ###### Oh and also there are some hidden secrets, can you find them without inspecting the code to find them?
 ![KillerX Secret](https://cdn.discordapp.com/attachments/982997030240669706/984243969024204800/unknown.png)

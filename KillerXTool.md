@@ -7,5 +7,5 @@
 ![KillerX Menu](https://cdn.discordapp.com/attachments/982997030240669706/984243091168981022/hhhh.jpg)
 ###### If you dont have an account, just type "*KillerXBeta*" in the Username Input to use the BETA Version of KillerX. Some functions are disabled.
 ![KillerX Beta](https://media.discordapp.net/attachments/974033936210616371/989661980862345268/unknown.png)
-###### Oh and also there are some hidden secrets, can you find them without inspecting the code to find them?
+###### Oh and also there are some hidden secrets, can you find them without inspecting the code?
 ![KillerX Secret](https://cdn.discordapp.com/attachments/982997030240669706/984243969024204800/unknown.png)
